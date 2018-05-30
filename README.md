@@ -7,11 +7,11 @@ b03901045@ntu.edu.tw
 # Công Ty TSMC ( Taiwan Semiconductor Manufacturer Company)
 ![TSMC_logo_ltd-700x633](https://i.imgur.com/ntJOck9.png)
 
-1. Công Ty TSMC là công ty tạo chất bán dẫn Đài Loan. Trong cả thới giới
+* Công Ty TSMC là công ty tạo chất bán dẫn Đài Loan. Trong cả thới giới
 
-2. Công ty này chế tạo chất bán dẫn lớn nhất thế giới.
+* Công ty này chế tạo chất bán dẫn lớn nhất thế giới.
 
-3. Từ khoảng 10 năm trước đến bây giờ, công nghệ chất bán dẫn của TSMC là giỏi nhất, thậm chí giỏi hơn Intel và Samsung. 
+* Từ khoảng 10 năm trước đến bây giờ, công nghệ chất bán dẫn của TSMC là giỏi nhất, thậm chí giỏi hơn Intel và Samsung. 
 
 # Ngành công nghiệp bán dẫn
 
