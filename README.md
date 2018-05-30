@@ -17,11 +17,11 @@ b03901045@ntu.edu.tw
 
 ![880px-Moore's_Law_Transistor_Count_1971-2016](https://i.imgur.com/M1kshG6.png)
 
-1. Ngành công nghiệp bán dẫn (半導體) rất đặc biệt, mỗi công ty có gắng làm bán dẫn nhỏ, thì có thể làm máy tính nhỏ hay tăng tôc máy tính. Phát triển của bán dẫn có thể trông đợi (預期). 
+* Ngành công nghiệp bán dẫn (半導體) rất đặc biệt, mỗi công ty có gắng làm bán dẫn nhỏ, thì có thể làm máy tính nhỏ hay tăng tôc máy tính. Phát triển của bán dẫn có thể trông đợi (預期). 
 
-2. Định luật Moore biểu đạt rằng “số lượng transistor trên mỗi đơn vị  sẽ tăng lên gấp đôi sau mỗi 18 tháng. 
+* Định luật Moore biểu đạt rằng “số lượng transistor trên mỗi đơn vị  sẽ tăng lên gấp đôi sau mỗi 18 tháng. 
 
-3. Hơn nữa, nếu một công ty phát triển bán dẫn nhanh hơn trong 18 tháng, thì có nhiều cơ hội tiếp tục thành công, bởi vì từng công nghệ có liên quan.
+* Hơn nữa, nếu một công ty phát triển bán dẫn nhanh hơn trong 18 tháng, thì có nhiều cơ hội tiếp tục thành công, bởi vì từng công nghệ có liên quan.
 
 ![b01a00_p_02_02](https://i.imgur.com/5TGwlhh.jpg)
 
@@ -45,10 +45,10 @@ b03901045@ntu.edu.tw
 
 # Conslusion
 
-1. Vì có nhiều kỹ sư giỏi, công ty TSMC bắt đầu dẫn đầu 10 năm đến bây giờ. 
+* Vì có nhiều kỹ sư giỏi, công ty TSMC bắt đầu dẫn đầu 10 năm đến bây giờ. 
 
-2. Nhiều chuyên gia tin rằng công ty TSMC có thể tiếp tục dẫn đầu 10 năm.
+* Nhiều chuyên gia tin rằng công ty TSMC có thể tiếp tục dẫn đầu 10 năm.
 
-4. Trong các kỹ sư, Ông Lâm Bổn Kiên là một thí dụ. 
+* Trong các kỹ sư, Ông Lâm Bổn Kiên là một thí dụ. 
 
-5. Tại sao em thấy học công trình rất hay, một bộ phận vì nhiều công nghệ quan trọng  bắt đầu từ ý tưởng dễ.  
+* Tại sao em thấy học công trình rất hay, một bộ phận vì nhiều công nghệ quan trọng  bắt đầu từ ý tưởng dễ.  
