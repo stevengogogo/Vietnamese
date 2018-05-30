@@ -18,7 +18,7 @@ Ngành công nghiệp bán dẫn (半導體) rất đặc biệt, mỗi công ty
 
 # Học giả Lâm Bổn Kiên và immersion lithography
 
-![13378_635445708177158807](http://www.cdn.org.tw/News.aspx?key=4862)
+![13378_635445708177158807](http://www.cdn.org.tw/_Resource/Upload/Media/13378_635445708177158807.jpg)
 
 Học giả Lâm Bổn Kiên, người Đài Loan, tốt nghiệp từ Công trình tiện tự của Đại Học Đài Loan vào 1963, nhận được Phd ở Mỹ.
 Ông Lâm Bổn Kiên phát triển một công nghệ tên là immersion lithography vào 2002. Bởi vì có cái công nghệ, Công Ty TSMC lần đầu tiên dẫn đầu thới giới.
