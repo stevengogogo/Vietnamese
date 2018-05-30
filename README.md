@@ -1,5 +1,8 @@
-# stevenchiu.github.io
-Create a personal website
+# Tiếng Việt - Trịnh Độ C
+## Bài Báo 9- Khoa Học
+## Sinh Viên: Shao-Ting Chiu
+b03901045@ntu.edu.tw
+
 
 # Công Ty TSMC ( Taiwan Semiconductor Manufacturer Company)
 ![TSMC_logo_ltd-700x633](https://i.imgur.com/ntJOck9.png)
