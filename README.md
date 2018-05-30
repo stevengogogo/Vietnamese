@@ -4,10 +4,10 @@
 b03901045@ntu.edu.tw
 
 
-# Công Ty TSMC ( Taiwan Semiconductor Manufacturer Company)
+# Công Ty TSMC và Học giả Lâm Bổn Kiên
 ![TSMC_logo_ltd-700x633](https://i.imgur.com/ntJOck9.png)
 
-* Công Ty TSMC là công ty tạo chất bán dẫn Đài Loan. Trong cả thới giới
+* Công Ty TSMC ( Taiwan Semiconductor Manufacturer Company) là công ty tạo chất bán dẫn Đài Loan. Trong cả thới giới
 
 * Công ty này chế tạo chất bán dẫn lớn nhất thế giới.
 
